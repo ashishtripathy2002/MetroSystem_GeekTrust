@@ -41,4 +41,4 @@ Travel charges
 * Pip
 
 # Result 
-Recieved 80/100 rating by the system with multiple badges for high code readability, maintainability and code coverage.[portfolio]([https://help.geektrust.com](https://www.geektrust.com/coding/evaluation/view-report/9d9112061495ca1b02ab71b70e6907ad5b004e2f0b64b3a9d5f238c21057e197e5ec826194a13367f8ae5416468bba45)https://www.geektrust.com/coding/evaluation/view-report/9d9112061495ca1b02ab71b70e6907ad5b004e2f0b64b3a9d5f238c21057e197e5ec826194a13367f8ae5416468bba45)
+Recieved 80/100 rating by the system with multiple badges for high code readability, maintainability and code coverage.
